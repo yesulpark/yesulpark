@@ -2,8 +2,8 @@
 ___
 
 <div align="center">
-Yesul Park
-
+<h3>Yesul Park</h3><br>  
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </div>
 
 ### Tech Skill ⚒
