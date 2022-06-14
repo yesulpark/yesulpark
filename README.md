@@ -3,7 +3,7 @@ ___
 
 <div align="center">
 <h3>Yesul Park</h3><br>  
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+<a href="https://www.linkedin.com/in/%EC%98%88%EC%8A%AC-%EB%B0%95-4ab534215/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" ></a> <a href="mailto:cvprys@gmail.com" > <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" ></a>
 </div>
 
 ### Tech Skill ⚒
