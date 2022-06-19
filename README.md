@@ -33,8 +33,6 @@ ___
 ___
 2020.03	– 2022.02    Sejong University(Seoul) Computer Science (Deep learning) [GPA 4.42]
 
-2014.03	– 2018.02  Korea Nazarene University (Chungnam) Multimedia [GPA 4.03]
-
 
 ### Project 🔍
 ___
@@ -48,11 +46,14 @@ ___
 
 
 ### Publication 📃
+
 ___
 2020-07	XAI based public facility safety evaluation system research/KIBME Conference/Korea/1st author
 
 2021-10 Multiple Object Tracking in Deep Learning Approaches/Electronics/Switzerland/1st author
 
+2022-03 Automatic Tunnel Lining Crack Evaluation and Measurement using Deep Learning/	Tunnelling and Underground Space Technology/Netherlands/4th author
 
 ### Thesis 📕
+___
 Deep Learning based 3D Detection Model for Vehicles and Pedestrians using Sensor Fusion Technology
